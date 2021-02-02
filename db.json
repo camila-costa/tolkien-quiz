@@ -1,0 +1,42 @@
+{
+  "bg": "https://cdn.pixabay.com/photo/2020/01/12/17/31/middle-earth-4760561_1280.jpg",
+  "title": "Quiz sobre Tolkien",
+  "description": "Teste os seus conhecimentos sobre as obras do Tolkien!",
+  "questions": [
+    {
+      "image": "https://media3.giphy.com/media/Qs75BqLW44RrP0x6qL/giphy.gif",
+      "title": "Qual o nome completo do Tolkien?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "John Ronald Rafael Tolkien",
+        "Joseph Ronald Reuel Tolkien",
+        "John Ronald Reuel Tolkien"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/30/6f/ce/306fce6aa01d1d2cf048076fed7b3fac.gif",
+      "title": "Qual dessas obras foi publicada postumamente?",
+      "answer": 0,
+      "alternatives": [
+        "The Silmarillion",
+         "The Hobbit",
+         "The Lord of the Rings"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#00a152",
+      "secondary": "#00e676",
+      "mainBg": "#000",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
